@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "/home/yu9824/opt/miniforge3/envs/fairchem312/bin/python3",
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+                "match": "./*.ipynb",
+                "cmd": "/home/yu9824/opt/miniforge3/envs/fairchem312/bin/python3 -m jupytext --sync ${file}",
+            }
+        ]
+    }
+}
