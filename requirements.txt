@@ -1,0 +1,6 @@
+matplotlib
+numpy
+ase
+fairchem-core
+sella
+rdkit-pypi
