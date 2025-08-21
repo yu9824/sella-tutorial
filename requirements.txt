@@ -1,6 +1,9 @@
 matplotlib
 numpy
 ase
-fairchem-core
+nglview
+fairchem-core>=2.3.0    # for 'uma-*-1p1.pt'
 sella
 rdkit-pypi
+jupyter
+jupytext
